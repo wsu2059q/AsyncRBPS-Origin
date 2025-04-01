@@ -4,7 +4,7 @@
   "modules": {
     "Server": {
       "path": "/AsyncServer.zip",
-      "version": "1.0.0",
+      "version": "114.51.4",
       "description": "测试模块",
       "author": "OIIIOIIIIIIIIIII！",
       "dependencies": ["AsyncServer"],
