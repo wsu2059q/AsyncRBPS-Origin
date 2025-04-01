@@ -83,42 +83,42 @@
         "path": "modules/AIChat.zip",
         "version": "1.0.0",
         "description": "AI聊天模块, 适配异步的OneBot及云湖触发器",
-        "author": "r1a, WSu2059",
+        "author": "WSu2059",
         "dependencies": []
     },
     "AIChatMessageStore": {
         "path": "modules/AIChatMessageStore.zip",
         "version": "1.0.0",
         "description": "AI聊天模块 - 消息对话存储模块，该模块用于存储AI聊天模块的对话记录",
-        "author": "r1a, WSu2059",
+        "author": "WSu2059",
         "dependencies": ["AIChat"]
     },
     "OneBotAdapter": {
         "path": "modules/OneBotAdapter.zip",
         "version": "1.0.0",
         "description": "OneBotV11协议适配器，异步的OneBot触发器",
-        "author": "r1a, WSu2059",
+        "author": "WSu2059",
         "dependencies": []
     },
     "OneBotMessageHandler": {
         "path": "modules/OneBotMessageHandler.zip",
         "version": "1.0.0",
         "description": "OneBot适配模块 - 消息处理模块，该模块用于处理OneBot的消息",
-        "author": "r1a, WSu2059",
+        "author": "WSu2059",
         "dependencies": ["OneBotAdapter"]
     },
     "OneBotNoticeHandler":{
         "path": "modules/OneBotNoticeHandler.zip",
         "version": "1.0.0",
         "description": "OneBot适配模块 - 通知处理模块，该模块用于处理OneBot的通知",
-        "author": "r1a, WSu2059",
+        "author": "WSu2059",
         "dependencies": ["OneBotAdapter"]
     },
     "OneBotRequestHandler":{
         "path": "modules/OneBotRequestHandler.zip",
         "version": "1.0.0",
         "description": "OneBot适配模块 - 请求处理模块，该模块用于处理OneBot的请求",
-        "author": "r1a, WSu2059",
+        "author": "WSu2059",
         "dependencies": ["OneBotAdapter"]
     }
   }
