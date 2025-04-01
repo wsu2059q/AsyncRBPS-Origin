@@ -1,6 +1,6 @@
 {
   "name": "AsyncRBPS-Origin",
-  "base": "https://github.com/wsu2059q/AsyncRBPS-Origin",
+  "base": "https://raw.githubusercontent.com/wsu2059q/AsyncRBPS-Origin/refs/heads/main/",
   "modules": {
     "AsyncServer": {
       "path": "/modules/AsyncServer.zip",
