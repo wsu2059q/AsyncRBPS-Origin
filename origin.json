@@ -2,17 +2,9 @@
   "name": "AsyncRBPS-Origin",
   "base": "https://raw.githubusercontent.com/wsu2059q/AsyncRBPS-Origin/refs/heads/main/modules",
   "modules": {
-    "Server": {
-      "path": "/AsyncServer.zip",
-      "version": "114.51.5",
-      "description": "测试模块",
-      "author": "OIIIOIIIIIIIIIII！",
-      "dependencies": ["AsyncServer"],
-      "optional_dependencies": ["NormalHandler"]
-    },
     "AsyncServer": {
       "path": "/AsyncServer.zip",
-      "version": "3.0.0",
+      "version": "1.0.0",
       "description": "异步云湖适配器服务器模块",
       "author": "r1a, WSu2059",
       "dependencies": [],
