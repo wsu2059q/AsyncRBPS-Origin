@@ -1,7 +1,7 @@
 {
   "name": "AsyncRBPS-Origin",
   "base": "https://github.com/wsu2059q/AsyncRBPS-Origin/",
-  "moduless": {
+  "modules": {
     "AsyncServer": {
       "path": "modules/AsyncServer.zip",
       "version": "1.0.0",
